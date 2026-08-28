@@ -1,7 +1,6 @@
 class TermLlm < Formula
   desc "Terminal-first AI runtime for commands, chat, editing, tools, jobs, and agents"
   homepage "https://term-llm.com"
-  version "0.9.0"
   license "MIT"
 
   on_macos do

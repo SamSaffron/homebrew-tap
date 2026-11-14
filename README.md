@@ -5,7 +5,7 @@ This is the official Homebrew tap for [term-llm](https://term-llm.com), a termin
 ## Install
 
 ```sh
-brew install samsaffron/tap/term-llm
+brew install term-llm/tap/term-llm
 ```
 
 To upgrade later:
@@ -14,4 +14,4 @@ To upgrade later:
 brew upgrade term-llm
 ```
 
-Release automation in [`SamSaffron/term-llm`](https://github.com/SamSaffron/term-llm) updates the formula whenever a new stable tag is published.
+Release automation in [`term-llm/term-llm`](https://github.com/term-llm/term-llm) updates the formula whenever a new stable tag is published.
